@@ -1,4 +1,4 @@
-# Human Understandable Tumor Disease Predictions: Interpretable Versus Explainable Methods in Brain Tumor Classification
+# Providing Doctors with Transparent Predictions: Interpretable Versus Explainable Methods in Brain Tumor Classification
 GitHub Repo for a comparison of various inherently interpretable and explainable post-hoc methods for tumor classification, part of an assignment for Machine Learning in Healthcare at ETH Zürich
 
 ## Background
