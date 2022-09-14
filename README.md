@@ -24,7 +24,7 @@ This is a GitHub Repository for a comparison of various inherently interpretable
 
   ![Model Performance Table](03_Images/performance_scores.png)
 
-* Visual explainers like GradCAM or SHAP provided **intuitive explanations**, which provided solutions with eye validity. Please find a visualization of SHAP predictions for CNNs for tumor and non-tumor patients below:
+* Visual explainers like GradCAM or SHAP provided **intuitive explanations**, which intuitively make sense (e.g., for tumor presence prediction highlighting white tumor region). Please find a visualization of SHAP predictions for CNNs for tumor and non-tumor patients below:
 
 ![SHAP heatmap](03_Images/SHAP_heatmap.png)
 
