@@ -1,5 +1,5 @@
 # Providing Doctors with Transparent Predictions: Interpretable Versus Explainable Methods in Brain Tumor Classification
-This is a GitHub Repository for a comparison of various inherently interpretable and explainable post-hoc methods for tumor classification. The analyses were conducted as part of an assignment for Machine Learning in Healthcare at ETH Zürich.
+This is a GitHub Repository for a comparison of various inherently interpretable and explainable post-hoc methods for tumor classification. The analyses were conducted as part of an assignment for Machine Learning in Healthcare at ETH Zürich. This work was jointly conducted by Arka Mitra (RF, GradCam, Transfer Learning) and Maximilian Hildebrandt (focus on Shap, RuleFit, Logistic Regression).
 
 ## Background
 * For the **adoption of clinical AI predictions** by doctors, insights into how the model works and why certain predictions are given is crucial.
