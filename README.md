@@ -22,11 +22,11 @@ This is a GitHub Repository for a comparison of various inherently interpretable
 ## Key Results
 * Performance **varied significantly between models**, with deep learning methods outperforming the traditional models:
 
-  ![Model Performance Table](performance_scores.png)
+  ![Model Performance Table](03_images/performance_scores.png)
 
 * Visual explainers like GradCAM or SHAP provided **intuitive explanations**, which provided solutions with eye validity. Please find a visualization of SHAP predictions for CNNs for tumor and non-tumor patients below:
 
-![SHAP heatmap](SHAP_heatmap.png)
+![SHAP heatmap](03_images/SHAP_heatmap.png)
 
 * In contrast, the **interpretable models provided lists of important features** (or decision-rules), but the radiomics features **require domain expertise** to be informative. **RuleFit improved the performance compared to standalone Logistic Regression with L1 Regularization or Random Forests**, while providing interpretable features.
 * Consequently, the **ideal method** in regard to performance and explainability is a **combination of transfer-learning on CNNs and SHAP values** as a posthoc method. Evidently, no tradeoff between interpretability and performance needs to be done with this method combination. 
