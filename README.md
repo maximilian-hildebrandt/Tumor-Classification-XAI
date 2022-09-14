@@ -22,7 +22,7 @@ This is a GitHub Repository for a comparison of various inherently interpretable
 ## Key Results
 * Performance **varied significantly between models**, with deep learning methods outperforming the traditional models:
 
-![Model Performance Table](performance_scores.png)
+  ![Model Performance Table](performance_scores.png)
 
 * Visual explainers like GradCAM or SHAP provided **intuitive explanations**, which provided solutions with eye validity. Please find a visualization of SHAP predictions for CNNs for tumor and non-tumor patients below:
 
