@@ -35,5 +35,3 @@ This is a GitHub Repository for a comparison of various inherently interpretable
 * Install **Python 3.10 (e.g., via Anaconda)** and an **IDE (e.g., PyCharm)**. 
 * The files can be run by python taskname.py. 
 * For task 2 on shapley values, the results are obtained in two steps. First the task2_base_cnn.py is run to obtain the model weights which are then sent to the task2_shap_posthoc.py
-* The weights reported in the paper are also available. Run python evaluate.py -p "model_name" to get the values on test set. For the results reported in the paper, run with batch_size 128 and initial learning rate of 0.001. model_weights/task4_model_128_0.001_True.pth has the highest accuracy.
-
