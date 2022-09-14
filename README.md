@@ -17,7 +17,7 @@ This is a GitHub Repository for a comparison of various inherently interpretable
   * **RuleFit** (Task 3)
   * CNNs with **GradCAM** attribution (Task 3)
   * CNNs with **transfer learning** (Task 4)
-* The data was split in **80-10-10 training, validation, and test dataset*. Performance was contrasted on the test set.
+* The data was split in **80-10-10 training, validation, and test dataset**. Performance was contrasted on the test set.
 
 ## Key Results
 * Performance **varied significantly between models**, with deep learning methods outperforming the traditional models:
