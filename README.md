@@ -34,4 +34,4 @@ This is a GitHub Repository for a comparison of various inherently interpretable
 ## Installation Instructions
 * Install **Python 3.10 (e.g., via Anaconda)** and an **IDE (e.g., PyCharm)**. 
 * The files can be run by python taskname.py. 
-* For task 2 on shapley values, the results are obtained in two steps. First the task2_base_cnn.py is run to obtain the model weights which are then sent to the task2_shap_posthoc.py
+* For task 2 on shapley values, the results are obtained in two steps. First the task2_base_cnn.py is run to obtain the model weights which are then sent to the task2_shap_posthoc.py. 
