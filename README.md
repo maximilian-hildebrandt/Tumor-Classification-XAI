@@ -3,7 +3,7 @@ This is a GitHub Repository for a comparison of various inherently interpretable
 
 ## Background
 * For the **adoption of clinical AI predictions** by doctors, insights into how the model works and why certain predictions are given is crucial.
-* XAI which shed light into model predictions can be split into **interpretable (intrinsically interpretable)** and **explainable (posthoc) methods**. Crucially, **no structured comparison of methods** have been implemented so far.
+* XAI which shed light into model predictions can be split into **interpretable (intrinsically interpretable)** and **explainable (posthoc) methods**. Crucially, **no structured comparison of methods** has been implemented so far.
 
 ## Objective
 * **Implement a series of XAI methods** and record their **performance in tumor classification on the Kaggle Brain Tumor Dataset**, which includes images of tumor and non-tumor patients as well as structured radiomics features.
